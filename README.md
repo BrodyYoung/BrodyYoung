@@ -3,7 +3,10 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BrodyYoung;I'm+from+China;I'm+a+Java+Developer;Be+Welcome!)
   
 # 💫 关于我 About Me:
-🚀我是BrodyYoung，来自中国。我是一名Java开发者。<br/>
+🚀我是Brody Young，来自中国。我是一名全栈软件开发者。<br/>
+
+💻Java/Golang/Python/TypeScript/Nodejs<br/>
+
 ⚡座右铭：*终身学习，持续进步，求知若饥，虚心若愚。*
 
 # <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">联系我 Reach Me On 
