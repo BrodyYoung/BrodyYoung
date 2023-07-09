@@ -40,12 +40,12 @@
 ![Django](https://img.shields.io/badge/django-orange.svg?style=for-the-badge&logo=django&logoColor=white)
 
 **JavaScript**:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+[![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-C71A36.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-%230db7ed?style=for-the-badge&logo=Electron&logoColor=white)
 
@@ -56,7 +56,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Linux/CloudNative:**
+**Linux:**
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,7 +69,7 @@
 [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=for-the-badge&logo=json&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 [![XML](https://img.shields.io/badge/-XML-orange?style=for-the-badge&logo=xml&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 
-## 🏆 奖杯 GitHub Trophies
+# 🏆 奖杯 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=BrodyYoung&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
