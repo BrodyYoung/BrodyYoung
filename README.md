@@ -9,7 +9,7 @@
 :volcano: Java / Golang / Python / TypeScript / Nodejs<br/>
 
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
-⚡座右铭： **终身学习，持续进步，求知若饥，虚心若愚。**
+⚡座右铭： 终身学习，持续进步，求知若饥，虚心若愚。
 
 # <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">联系我 Reach Me On:
 
@@ -65,6 +65,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 
 **Other:**
+![Idea](https://img.shields.io/badge/Idea-black?style=for-the-badge&logo=idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=for-the-badge&logo=json&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 [![XML](https://img.shields.io/badge/-XML-orange?style=for-the-badge&logo=xml&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
