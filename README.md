@@ -34,6 +34,7 @@
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 <!--    ---     -->
 # 📊 推荐项目 Repositories:
+<!-- 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/BrodyYoung/young-netty-chat" title="young-netty-chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=young-netty-chat&theme=gotham"></a>
  
@@ -45,8 +46,12 @@
  
   <a align="right" href="https://github.com/BrodyYoung/rabbitmq-hello" title="rabbitmq-hello"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=rabbitmq-hello&theme=gotham"></a>
 </p>
+ -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=young-netty-chat&theme=radical "young-netty-chat")](https://github.com/BrodyYoung/young-netty-chat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=young-netty-mqtt&theme=highcontrast "young-netty-mqtt")](https://github.com/BrodyYoung/young-netty-mqtt)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=springcloud&theme=radical "springcloud")](https://github.com/BrodyYoung/springcloud)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BrodyYoung&repo=rabbitmq-hello&theme=highcontrast "rabbitmq-hello")](https://github.com/BrodyYoung/rabbitmq-hello)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
